@@ -38,7 +38,7 @@ global.ownername = "Android Tec"
 global.owner = ['51921253876']
 
 //tag del owner
-global.ownertag = ['51921253876'] 
+global.ownertag = ['51977132190'] 
 
 //locación del owner
 global.location = "Peru"
